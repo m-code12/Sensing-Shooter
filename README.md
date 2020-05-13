@@ -1,7 +1,5 @@
 # Sensing-Shooter
-Sensing Shooter is a manual shooting robot which detects the presence of any object using PIR (passive infrared sensor). It also has a 24/7 camera which helps in surveillance and can be used as a security gadget.
-
-It is a combination of software and hardware  components such as Bluetooth module, Arduino Uno, PIR sensor and their respective codes were used. This project was designed with a view of providing instant security to the border which can reduce casualties.
+Sensing-Shooter is a combination of software and hardware  components such as Bluetooth module, Arduino Uno, PIR sensor and their respective codes were used. This project was designed with a view of providing instant security to the border which can reduce casualties.
 
 COMPONENTS & SOFTWARE :
 -> OV7670 Camera module
